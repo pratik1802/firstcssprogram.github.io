@@ -1,0 +1,10 @@
+#welcome{
+    color: red;
+    text-align: center;
+    line-height:10vh;
+    text-decoration:underline;
+    text-transform: uppercase;
+    font-size: 10px;
+    font-style: italic;
+    font-variant: small-caps;
+}
